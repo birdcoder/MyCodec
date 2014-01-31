@@ -8,3 +8,8 @@ Vendor Id: 0x10ec0269
 1e 0x04441120 [Jack] SPDIF Out at Ext Right 	Color = Black
 21 0x0421101f [Jack] HP Out at Ext Right 	Color = Black
 
+18	30	18	a1	04:	[Jack] Mic at Ext Right 	Color = Black 		VREF_80
+19	3f      09      a7      90:     [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
+1a	10      01      17      90:     [Fixed] Speaker at Int N/A 	Color = Unknown
+1e	20      11      44      04:     [Jack] SPDIF Out at Ext Right 	Color = Black
+21	1f      10      21      04:     [Jack] HP Out at Ext Right 	Color = Black

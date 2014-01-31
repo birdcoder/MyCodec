@@ -1,43 +1,15 @@
 Address: 0
 Vendor Id: 0x10ec0269
-Node 0x12 [Pin Complex] wcaps 0x40000b: Stereo Amp-In
-  Pin Default 0x411111f0: [N/A] Speaker at Ext Rear
-    Conn = 1/8, Color = Black
 
-Node 0x14 [Pin Complex] wcaps 0x40018d: Stereo Amp-Out
-  Pin Default 0x411111f0: [N/A] Speaker at Ext Rear
-    Conn = 1/8, Color = Black
 
-Node 0x17 [Pin Complex] wcaps 0x40010c: Mono Amp-Out
-  Pin Default 0x411111f0: [N/A] Speaker at Ext Rear
-    Conn = 1/8, Color = Black
-
-Node 0x18 [Pin Complex] wcaps 0x40018f: Stereo Amp-In Amp-Out
-  Pin Default 0x04a11830: [Jack] Mic at Ext Right
-    Conn = 1/8, Color = Black
-  Pin-ctls: 0x24: IN VREF_80
-Node 0x19 [Pin Complex] wcaps 0x40008b: Stereo Amp-In
-  Pin Default 0x90a7093f: [Fixed] Mic at Int N/A
-    Conn = Analog, Color = Unknown
-  Pin-ctls: 0x24: IN VREF_80
-
-Node 0x1a [Pin Complex] wcaps 0x40018f: Stereo Amp-In Amp-Out
-  Pin Default 0x90170110: [Fixed] Speaker at Int N/A
-    Conn = Analog, Color = Unknown
-
-Node 0x1b [Pin Complex] wcaps 0x40018f: Stereo Amp-In Amp-Out
-  Pin Default 0x411111f0: [N/A] Speaker at Ext Rear
-    Conn = 1/8, Color = Black
-
-Node 0x1d [Pin Complex] wcaps 0x400000: Mono
-  Pin Default 0x40189e2d: [N/A] Speaker at Ext N/A
-    Conn = DIN, Color = Pink
-
-Node 0x1e [Pin Complex] wcaps 0x400381: Stereo Digital
-  Pin Default 0x04441120: [Jack] SPDIF Out at Ext Right
-    Conn = RCA, Color = Black
-
-Node 0x21 [Pin Complex] wcaps 0x40018d: Stereo Amp-Out
-  Pin Default 0x0421101f: [Jack] HP Out at Ext Right
-    Conn = 1/8, Color = Black
+0x12 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+0x14 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+0x17 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+0x18 0x04a11830: [Jack] Mic at Ext Right 	Color = Black 		VREF_80
+0x19 0x90a7093f: [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
+0x1a 0x90170110: [Fixed] Speaker at Int N/A 	Color = Unknown
+0x1b 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+0x1d 0x40189e2d: [N/A] Speaker at Ext N/A 	Color = Pink
+0x1e 0x04441120: [Jack] SPDIF Out at Ext Right 	Color = Black
+0x21 0x0421101f: [Jack] HP Out at Ext Right 	Color = Black
 

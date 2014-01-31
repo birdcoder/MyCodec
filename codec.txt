@@ -8,8 +8,39 @@ Vendor Id: 0x10ec0269
 1e 0x04441120 [Jack] SPDIF Out at Ext Right 	Color = Black
 21 0x0421101f [Jack] HP Out at Ext Right 	Color = Black
 
-18	30	18	a1	04:	[Jack] Mic at Ext Right 	Color = Black 		VREF_80
-19	3f      09      a7      90:     [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
+18	30	10	a1	01:	[Jack] Mic at Ext Right 	Color = Black 		VREF_80
+19	30      01      a7      90:     [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
 1a	10      01      17      90:     [Fixed] Speaker at Int N/A 	Color = Unknown
-1e	20      11      44      04:     [Jack] SPDIF Out at Ext Right 	Color = Black
-21	1f      10      21      04:     [Jack] HP Out at Ext Right 	Color = Black
+1e	20      10      44      01:     [Jack] SPDIF Out at Ext Right 	Color = Black
+21	10      10      21      01:     [Jack] HP Out at Ext Right 	Color = Black
+
+
+Address+Node+71c+[12]
+
+18	30	10	a1	01	01871c30	
+19	30      01      a7      90	01971c30
+1a	10      01      17      90	01a71c10
+1e	20      10      44      01	01e71c20
+21	10      10      21      01	02171c10
+
+Address+Node+71d+[34]
+18	10	a1	01	01871d10
+19	01      a7      90	01971d01
+1a	01      17      90	01a71d01
+1e	10      44      01	01e71d10
+21	10      21      01	02171d10
+
+
+Address+Node+71e+[56]
+18	a1	01	01871ea1
+19	a7      90	01971ea7
+1a	17      90	01a71e17
+1e	44      01	01e71e44
+21	21      01	02171e21
+
+Address+Node+71f+[78]
+18	01	01871f01
+19	90	01971f90
+1a	90	01a71f90
+1e	01	01e71f01
+21	01	02171f01

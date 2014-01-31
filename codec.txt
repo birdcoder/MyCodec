@@ -2,14 +2,14 @@ Address: 0
 Vendor Id: 0x10ec0269
 
 
-0x12 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
-0x14 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
-0x17 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
-0x18 0x04a11830: [Jack] Mic at Ext Right 	Color = Black 		VREF_80
-0x19 0x90a7093f: [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
-0x1a 0x90170110: [Fixed] Speaker at Int N/A 	Color = Unknown
-0x1b 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
-0x1d 0x40189e2d: [N/A] Speaker at Ext N/A 	Color = Pink
-0x1e 0x04441120: [Jack] SPDIF Out at Ext Right 	Color = Black
-0x21 0x0421101f: [Jack] HP Out at Ext Right 	Color = Black
+12 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+14 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+17 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+18 0x04a11830: [Jack] Mic at Ext Right 	Color = Black 		VREF_80
+19 0x90a7093f: [Fixed] Mic at Int N/A 	Color = Unknown 	VREF_80
+1a 0x90170110: [Fixed] Speaker at Int N/A 	Color = Unknown
+1b 0x411111f0: [N/A] Speaker at Ext Rear 	Color = Black
+1d 0x40189e2d: [N/A] Speaker at Ext N/A 	Color = Pink
+1e 0x04441120: [Jack] SPDIF Out at Ext Right 	Color = Black
+21 0x0421101f: [Jack] HP Out at Ext Right 	Color = Black
 
